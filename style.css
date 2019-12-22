@@ -20,3 +20,8 @@
 #result {
 	resize: none;
 }
+
+#copy{
+	box-sizing: border-box;
+	padding: 0;
+}
